@@ -633,7 +633,7 @@ header p {
     color: white;
     font-size: 12px;
     margin-left: 20px;
-    opacity: 0;
+    opacity: 1;
     transition: opacity 1s;
   }
 
