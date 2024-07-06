@@ -732,7 +732,7 @@ footer ul {
   font-weight: lighter;
   width: 25%;
   padding: 0 15px;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .footer-col h4 {
