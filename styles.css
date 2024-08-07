@@ -931,7 +931,7 @@ footer ul {
     row-gap: 0;
 
     .card {
-      max-width: 24vw;
+      max-width: 64vw;
     }
   }
 
@@ -1073,7 +1073,7 @@ footer ul {
       row-gap: 0;
 
       .card {
-        max-width: 36vw;
+        max-width: 64vw;
       }
 
     }
@@ -1162,7 +1162,7 @@ footer ul {
       row-gap: 0;
 
       .card {
-        max-width: 48vw;
+        max-width: 64vw;
       }
 
     }
