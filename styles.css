@@ -35,7 +35,7 @@
 nav {
   height: 80px;
   width: 100%;
-  background: #4ea3f8;
+  background: #c6e4f0;
   color: rgb(20, 20, 20);
   padding: 30px 2rem;
   display: flex;
@@ -64,7 +64,7 @@ nav {
 }
 
 #navbar__logo img {
-  height: 60px;
+  height: 80px;
 }
 
 nav li {
@@ -80,7 +80,7 @@ nav a {
   text-transform: uppercase;
   font-family: LibreBaskerville;
   text-decoration: none;
-  color: white;
+  color: #4169e1;
 }
 
 .inactive::after {
@@ -105,9 +105,9 @@ nav a {
 }
 
 .donate-button {
-  color: white;
+  color: #4169e1;
   border-style: solid;
-  border-color: white;
+  border-color: #4169e1;
   border-radius: 5px;
   padding: 15px 16px;
   text-align: center;
@@ -134,7 +134,7 @@ nav a {
   background-size: cover;
   background-position: center;
   color: white;
-  padding: 4em 1em;
+  padding: 5em 1em;
   text-align: center;
   font-size: 1vw;
 }
@@ -216,7 +216,7 @@ header p {
     max-width: 400px;
 
     h2 {
-      color: #0080ff;
+      color: #000911;
       font-weight: 400;
       font-size: 3rem;
       line-height: 1;
@@ -227,7 +227,7 @@ header p {
     p {
       font-size: 1.125rem;
       line-height: 1.7rem;
-      color: #0080ff;
+      color: #01080f;
       font-family: Montserrat, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
       font-weight: 200;
     }
@@ -614,6 +614,56 @@ header p {
       }
     }
   }
+  
+  .card6 {
+    background: url('./HappyDogSurfShopPics/ava.jpg') center center no-repeat;
+    background-size: 30vw;
+
+    &:hover {
+
+      h2 {
+        opacity: 1;
+      }
+
+      h3 {
+        opacity: 1;
+      }
+
+      h4 {
+        opacity: 1;
+      }
+
+      .fa {
+        opacity: 1;
+      }
+    }
+  }
+
+  
+  .card7 {
+    background: url('./HappyDogSurfShopPics/jason.jpg') center center no-repeat;
+    background-size: 30vw;
+
+    &:hover {
+
+      h2 {
+        opacity: 1;
+      }
+
+      h3 {
+        opacity: 1;
+      }
+
+      h4 {
+        opacity: 1;
+      }
+
+      .fa {
+        opacity: 1;
+      }
+    }
+  }
+
 
   h2 {
     color: white;
@@ -724,7 +774,7 @@ footer ul {
 }
 
 .footer {
-  background-color: #4ea3f8;
+  background-color: #c6e4f0;
   padding: 70px 0;
 }
 
@@ -738,7 +788,7 @@ footer ul {
 
 .footer-col h4 {
   font-size: 18px;
-  color: #ffffff;
+  color: #4169e1;
   text-transform: capitalize;
   margin-bottom: 35px;
   font-weight: 500;
@@ -762,7 +812,7 @@ footer ul {
 
 .footer-col ul li a {
   font-size: 16px;
-  color: #ffffff;
+  color: #4169e1;
   text-decoration: none;
   font-weight: 300;
   display: block;
@@ -783,7 +833,7 @@ footer ul {
   text-align: center;
   line-height: 40px;
   border-radius: 50%;
-  color: #ffffff;
+  color: #4169e1;
   transition: all 0.5s ease;
 }
 
