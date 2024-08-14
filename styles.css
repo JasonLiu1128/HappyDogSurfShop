@@ -1128,7 +1128,11 @@ footer ul {
 
   .logo {
   margin: 0 .5rem;
-}
+  }
+  
+  header p {
+  font-size: 4em;
+  }
   
   .container {
     padding: 25px 50px;
