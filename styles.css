@@ -726,13 +726,13 @@ header p {
   background-image: url('./HappyDogSurfShopPics/homepage background.jpg');
   background-size: cover;
   color: white;
-  padding: 5em 1em;
+  padding: 3em 1em;
   text-align: center;
   animation: fadeInUp 1s ease forwards;
 
   img {
-    width: 30%;
-    max-width: 300px;
+    width: 20%;
+    max-width: 200px;
     height: auto;
     margin-top: 5px;
   }
