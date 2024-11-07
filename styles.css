@@ -722,6 +722,21 @@ header p {
     margin-top: 5px;
   }
 }
+#partnerheader {
+  background-image: url('./HappyDogSurfShopPics/sponsorbackground.jpg');
+  background-size: cover;
+  color: white;
+  padding: 5em 1em;
+  text-align: center;
+  animation: fadeInUp 1s ease forwards;
+
+  img {
+    width: 30%;
+    max-width: 300px;
+    height: auto;
+    margin-top: 5px;
+  }
+}
 
 .about {
   text-align: center;
